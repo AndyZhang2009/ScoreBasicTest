@@ -1,2 +1,2 @@
 # ScoreBasicTest
-## 作者很懒，没写Readme
+## 这是ScoreBasicTest的网页
